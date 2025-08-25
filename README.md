@@ -1,22 +1,26 @@
-# 👋 Xin chào, mình là Trường  
-
-💻 Fullstack Web Developer (React · Node.js · PostgreSQL)  
-🌱 Đang trên hành trình học hỏi & phát triển kỹ năng  
-
----
-
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+## 🚀 Về mình
+- 🎓 Trái ngành nhưng đang chuyển hướng sang **Fullstack Web Developer**  
+- 💻 Đang học và làm với **React, Node.js, PostgreSQL**  
+- 🌱 Mục tiêu: Trở thành **Fullstack Developer** và tham gia các dự án thực tế  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=transparent)  
-![Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=transparent&hide_border=true)
+## 🛠️ Công nghệ mình dùng
+### Frontend
+⚛️ React · ⚡ Vite · 🎨 TailwindCSS · 🧩 Material UI  
+
+### Backend
+🟢 Node.js · 🚂 Express · 🗄️ PostgreSQL/MySQL · 🔑 JWT  
+
+### Tools
+🐙 Git/GitHub · ☁️ Vercel · 🐳 Docker  
+
+---
+
+## 📊 Thống kê GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
 ---
 
